@@ -1,5 +1,8 @@
-User Story / Bug / Task Definition of Done
+Methodology
 ===========
+
+
+###User Story / Bug / Task Definition of Done
 
 All acceptance criteria are met
 Exploratory testing by someone other than the team member who worked on the story
