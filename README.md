@@ -20,9 +20,9 @@ Once in the Backlog Stories view, click the green plus box in the bottom right c
 
 ###Plannings / Grooming / Product Discovery
 
-*Planning* is the result of Product Discovery and Grooming as the session(s) in which a sprint is estimated, tasked out and divided into a suite of User Stories ready to be worked.
+**Planning** is the result of Product Discovery and Grooming as the session(s) in which a sprint is estimated, tasked out and divided into a suite of User Stories ready to be worked.
 
-Grooming occurs before Plannings and its goal is to get User Stories and Spikes ready for a planning session. In order to have User Stories or Spikes for the planning it is necessary that these fulfill a minimum prerrequisites: 
+**Grooming** occurs before Plannings and its goal is to get User Stories and Spikes ready for a planning session. In order to have User Stories or Spikes for the planning it is necessary that these fulfill a minimum prerrequisites: 
 * A Title that summarizes the WHAT is the story/spike about
 * A Description that includes WHO, WHAT and WHY the story/spike must be carried out from the business value perspective and if possible from the user stand-point. Example:
 * An Acceptance Criteria that responds to the question How do I know that this story/spike is complete?
