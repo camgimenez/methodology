@@ -24,9 +24,18 @@ Once in the Backlog Stories view, click the green plus box in the bottom right c
 
 **Grooming** occurs before Plannings and its goal is to get User Stories and Spikes ready for a planning session. In order to have User Stories or Spikes for the planning it is necessary that these fulfill a minimum prerrequisites: 
 * A Title that summarizes the WHAT is the story/spike about
-* A Description that includes WHO, WHAT and WHY the story/spike must be carried out from the business value perspective and if possible from the user stand-point. Example:
-* An Acceptance Criteria that responds to the question How do I know that this story/spike is complete?
+* A Description that includes WHO, WHAT and WHY the story/spike must be carried out from the business value perspective and if possible from the user stand-point. 
+* An Acceptance Criteria that responds to the question *How do I know that this story/spike is complete?*
 
- 
+```gherkin
+User Story: Sign in
+As a shopper
+I want to sign in into the site
+In order to start shopping
 
-
+Acceptance Criteria
+-A modal will show a text box and a button
+-When clicking the button validations are triggered
+-When credentials are correct user is logged in
+-When credentials are incorrect validation messages state: "Incorrect user or password"
+```
