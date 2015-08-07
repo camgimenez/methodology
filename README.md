@@ -39,3 +39,9 @@ Acceptance Criteria
 -When credentials are correct user is logged in
 -When credentials are incorrect validation messages state: "Incorrect user or password"
 ```
+As a general rule, everything that is not meant to happen during a grooming or planning session it will in a **Product Discovery** session.
+
+In addition to the 3 rules above, we can use the following **principles to manage the uncertainties** during a grooming or planning session in the following and excluding order:
+* Include the uncertainty in the estimate
+* Create a spike and the output will be one or more stories
+* Have a Product discovery session about it
